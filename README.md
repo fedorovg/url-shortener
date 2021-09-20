@@ -6,3 +6,7 @@ This program allows you to register and generate shorter aliases for arbitrary l
 
 ### Build 
 Everything is built with gradle. The only custom task in the project is fatJar (obviously used to build the fat jar).
+
+#### Note
+
+Project has basically no commit history , because I had to pull it out of a repo with several other projects. 
